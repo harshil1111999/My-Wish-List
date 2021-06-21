@@ -1,0 +1,27 @@
+.editModal .header {
+    font-size: 30px !important;
+    text-align: center;
+    font-weight: 900 !important;
+}
+
+.editModal .content {
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+}
+
+.editModal input {
+    font-size: 20px;
+}
+
+.editModal .wishes {
+    margin-left: 50px;
+}
+
+.editModal .wish {
+    margin-top: 20px;
+}
+
+.editModal .actions button {
+    font-size: 16px;
+}

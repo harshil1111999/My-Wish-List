@@ -1,0 +1,31 @@
+.wishListContainer__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card {
+    transition: all 200ms ease-in-out !important;
+    margin: 20px !important;
+}
+
+.card .header {
+    font-size: 25px !important;
+    flex: 1;
+    text-transform: capitalize;
+}
+
+.card .content {
+    flex: 0 !important; 
+}
+
+.card .extra {
+    flex: 1 !important;
+}
+
+.card:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.1) !important;
+    -webkit-box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.1) !important;
+    -moz-box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.1) !important;
+} 

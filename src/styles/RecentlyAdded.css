@@ -1,0 +1,18 @@
+.recentlyAdded {
+    margin-top: 50px;
+}
+
+.recentlyAdded > h1 {
+    font-size: 40px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.cards {
+    margin: 20px !important;
+    justify-content: center;
+}

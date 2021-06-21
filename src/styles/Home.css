@@ -1,0 +1,29 @@
+.home {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+}
+
+.home > h1 {
+    font-size: 40px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+
+.input {
+    width: 500px;
+}
+
+.home input {
+    margin: 10px 0 !important;
+    font-size: 20px;
+}
+
+.home button {
+    font-size: 16px !important;
+    margin: 10px !important;
+}
